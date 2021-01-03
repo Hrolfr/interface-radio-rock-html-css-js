@@ -1,0 +1,22 @@
+
+
+*{
+   
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+
+}
+
+ .logo{
+    height: 70px;
+    width:20%;
+    align-content: center;
+    margin-left: 25%;
+    
+ }   
+
+.cab{
+    background-color: black;
+
+}
