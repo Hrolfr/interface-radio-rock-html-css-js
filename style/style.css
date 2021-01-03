@@ -22,7 +22,7 @@
     height: 45px;
     justify-content: left;
     margin-bottom: 12px;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 .apple{
     width: 110px;
@@ -30,4 +30,8 @@
     justify-content: left;
     margin-bottom: 12px;
     margin-left: 3px;
+}
+
+body{
+    background-color: rgb(156, 151, 151);
 }
