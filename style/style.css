@@ -1,7 +1,4 @@
-
-
 *{
-   
      margin:0;
      padding:0;
      box-sizing:border-box;
@@ -13,10 +10,24 @@
     width:20%;
     align-content: center;
     margin-left: 40%;
-    
- }   
+}   
 
 .cab{
     background-color: black;
+    max-height: 70px;
+}
 
+.google-play {
+    width: 110px;
+    height: 45px;
+    justify-content: left;
+    margin-bottom: 12px;
+    margin-left: 300px;
+}
+.apple{
+    width: 110px;
+    height: 45px;
+    justify-content: left;
+    margin-bottom: 12px;
+    margin-left: 3px;
 }
