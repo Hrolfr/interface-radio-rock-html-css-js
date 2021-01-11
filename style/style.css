@@ -2,7 +2,8 @@
      margin:0;
      padding:0;
      box-sizing:border-box;
-
+     font-family: 'Big Shoulders Stencil Text', cursive;
+    /*font-family: 'Big Shoulders Stencil Text', cursive;*/
 }
 
  .logo{
@@ -39,3 +40,5 @@ body{
 .agora{
     color: white;
 }
+
+/* Meio e 2/4 do documento*/
